@@ -1,0 +1,12 @@
+=== SMSdeck Cliente ===
+
+Para as próximas versões
+
+	- Adicionar recurso para listagem de mensagens enviadas de forma remota
+	- Adicionar recurso de ajuda
+	- Adicionar recurso para envio em massa
+	
+	
+2013.05.24 - Versao 1.1
+	- Versão inicial
+	
